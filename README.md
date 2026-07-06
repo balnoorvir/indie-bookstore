@@ -19,3 +19,9 @@ A responsive static landing page built using HTML5, CSS3, and Vanilla JavaScript
 - CSS3
 - JavaScript
 
+## Screenshots
+![Project Screenshot](Screenshot(67).png)
+![Project Screenshot](Screenshot(67).png)
+![Project Screenshot](Screenshot(67).png)
+![Project Screenshot](Screenshot(67).png)
+![Project Screenshot](Screenshot(67).png)
