@@ -20,7 +20,7 @@ A responsive static landing page built using HTML5, CSS3, and Vanilla JavaScript
 - JavaScript
 
 ## Live Website Link
-
+https://indie-bookstore-beta.vercel.app/
 
 ## Screenshots
 ![Project Screenshot](1.png)
